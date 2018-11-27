@@ -6,8 +6,15 @@ All values for resistance and capacitance were measured across the respective co
 
 The Miller Diversion 165 is compatible with the hand and foot controls of the Diversion 180. Therefore, I suspect the input circuitry for the main logic board will be very similar if not the same.
 
+## RFCS-RJ45 Foot Pedal Schematics
+![Sheet 1 of 1](https://github.com/braydenaimar/Miller-Diversion-180-Schematics/blob/master/RFCS-RJ45%20Foot%20Pedal%20(Sheet%201%20of%201).png "")
 
-## Documents
+## Remote Input Schematics
+![Sheet 1 of 3](https://github.com/braydenaimar/Miller-Diversion-180-Schematics/blob/master/Remote%20Input%20Circuitry%20(Sheet%201%20of%203).png "")
+![Sheet 2 of 3](https://github.com/braydenaimar/Miller-Diversion-180-Schematics/blob/master/Remote%20Input%20Circuitry%20(Sheet%202%20of%203).png "")
+![Sheet 3 of 3](https://github.com/braydenaimar/Miller-Diversion-180-Schematics/blob/master/Remote%20Input%20Circuitry%20(Sheet%203%20of%203).png "")
+
+## Reference Documentation
 - [Miller 180 and 165 Owners Manual](https://www.millerwelds.com/files/owners-manuals/O263920A_MIL.pdf)
 - [RFCS Foot Pedal Owners Manual](https://www.millerwelds.com/files/owners-manuals/O844K_MIL.pdf)
 - [Alternate Foot Pedal C810-0814](https://www.ssccontrols.com/wp-content/uploads/2015/12/Product-Information-Sheet-C810-0814-TIG-Foot-Controls-for-Miller-Welding-Equipment.pdf)
